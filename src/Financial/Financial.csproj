@@ -1,7 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
-  </PropertyGroup>
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <PackageId>Financial</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Arthur</Authors>
+        <Company>MyHouse</Company>
+        <PackageDescription>General Financial package</PackageDescription>
+        <RepositoryUrl>https://github.com/arthurzer/hello-dotnetcore</RepositoryUrl>
+    </PropertyGroup>
 
 </Project>
