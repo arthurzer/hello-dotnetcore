@@ -6,5 +6,10 @@
         {
             return a + b;
         }
+
+        public static decimal Subtract(decimal a, decimal b)
+        {
+            return a - b;
+        }
     }
 }
